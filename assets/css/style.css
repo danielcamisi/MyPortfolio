@@ -166,7 +166,7 @@ section{
 
 /* Adiciona um espaço extra na parte inferior para o texto, típico das polaroids */
 .img-box::after {
-    content: "Dev Full-Stack"; /* Nome ou descrição da imagem */
+    content: "Dev Front-end"; /* Nome ou descrição da imagem */
     display: block;
     text-align: center;
     margin-top: 20px; /* Aumenta o espaçamento entre a imagem e o texto */
