@@ -188,6 +188,7 @@ section{
     justify-content: center;
     flex-direction: column;
     padding: 7em;
+    margin-top: 3em;
 }
 .home-aboutme h1{
     font-size: clamp(3.5rem, 10vw, 5.5rem);
@@ -227,7 +228,7 @@ section{
 .jornal-main {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 30px;
 }
 
 .jornal-article {
@@ -240,9 +241,11 @@ section{
 .jornal-article h2 {
     margin-top: 0;
     color: #333;
+    font-size: 2em;
 }
 .jornal-article p{
     color:#131515;
+    font-size: 1.7em;
 }
 
 .jornal-footer {
